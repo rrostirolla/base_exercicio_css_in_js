@@ -1,3 +1,36 @@
+# Calculadora de IMC
+
+### 📝 Descrição
+Site de vagas de emprego responsivo.
+Onde foi utilizado o fork de um projeto do professor e foi feita toda estilização com styled-components
+
+</br>
+
+### 👨🏻‍💻 Tecnologias utilizadas 
+React </br>
+TypeScript </br>
+Styled-Components </br>
+
+</br>
+
+### 🎴 Imagem do projeto
+
+![EBAC-Jobs](https://user-images.githubusercontent.com/114628700/222786023-0589c66f-bc51-454f-8424-0be08a9624a3.jpg)
+
+
+
+</br>
+
+### 💻 Acesse o projeto
+https://base-exercicio-css-in-js.vercel.app/
+
+
+
+<br>
+<br>
+<br>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
