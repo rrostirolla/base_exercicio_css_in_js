@@ -30,6 +30,7 @@ export const VagaLink = styled.a`
   font-size: 14px;
   border-radius: 8px;
   text-align: center;
+  cursor: pointer;
 
   &:hover {
     border-color: var(--cor-principal);
