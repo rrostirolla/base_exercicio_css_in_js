@@ -2,7 +2,7 @@
 
 ### 📝 Descrição
 Site de vagas de emprego responsivo.
-Onde foi utilizado o fork de um projeto do professor e foi feita toda estilização com styled-components
+Onde foi utilizado o fork de um projeto do professor e foi feita toda estilização com styled-components.
 
 </br>
 
