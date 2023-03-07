@@ -24,7 +24,7 @@ const EstiloGlobal = createGlobalStyle`
         margin: 0 auto;
     }
 
-    @media (max-width: 1024px) {
+    @media (max-width: 768px) {
         .container {
         max-width: 80%;
         }
