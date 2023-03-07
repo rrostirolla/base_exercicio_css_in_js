@@ -22,7 +22,7 @@ Styled-Components </br>
 </br>
 
 ### 💻 Acesse o projeto
-https://base-exercicio-css-in-js.vercel.app/
+https://ebac-jobs-rr.vercel.app/
 
 
 
