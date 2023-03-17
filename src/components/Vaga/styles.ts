@@ -16,9 +16,9 @@ export const Vaga = styled.li`
     background-color: var(--cor-principal);
     color: var(--cor-secundaria);
     a {
-    border-color: var(--cor-principal);
-    background-color: var(--cor-secundaria);
-    color: var(--cor-principal);
+      border-color: var(--cor-principal);
+      background-color: var(--cor-secundaria);
+      color: var(--cor-principal);
     }
   }
 `
