@@ -15,6 +15,11 @@ export const Vaga = styled.li`
   &:hover {
     background-color: var(--cor-principal);
     color: var(--cor-secundaria);
+    a {
+    border-color: var(--cor-principal);
+    background-color: var(--cor-secundaria);
+    color: var(--cor-principal);
+    }
   }
 `
 
@@ -31,12 +36,6 @@ export const VagaLink = styled.a`
   border-radius: 8px;
   text-align: center;
   cursor: pointer;
-
-  &:hover {
-    border-color: var(--cor-principal);
-    background-color: var(--cor-secundaria);
-    color: var(--cor-principal);
-  }
 
   @media (max-width: 768px) {
     display: block;
